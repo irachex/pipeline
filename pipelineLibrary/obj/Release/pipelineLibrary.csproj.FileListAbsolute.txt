@@ -1,0 +1,5 @@
+C:\Users\irachex\Documents\Visual Studio 2010\Projects\pipeline\pipelineLibrary\bin\Release\pipelineLibrary.dll
+C:\Users\irachex\Documents\Visual Studio 2010\Projects\pipeline\pipelineLibrary\bin\Release\pipelineLibrary.pdb
+C:\Users\irachex\Documents\Visual Studio 2010\Projects\pipeline\pipelineLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\irachex\Documents\Visual Studio 2010\Projects\pipeline\pipelineLibrary\obj\Release\pipelineLibrary.dll
+C:\Users\irachex\Documents\Visual Studio 2010\Projects\pipeline\pipelineLibrary\obj\Release\pipelineLibrary.pdb

@@ -1,0 +1,16 @@
+c:\users\irachex\documents\visual studio 2010\Projects\pipeline\pipelineApp\bin\Debug\pipelineApp.exe
+c:\users\irachex\documents\visual studio 2010\Projects\pipeline\pipelineApp\bin\Debug\pipelineApp.pdb
+c:\users\irachex\documents\visual studio 2010\Projects\pipeline\pipelineApp\bin\Debug\pipelineLibrary.dll
+c:\users\irachex\documents\visual studio 2010\Projects\pipeline\pipelineApp\bin\Debug\pipelineLibrary.pdb
+c:\users\irachex\documents\visual studio 2010\Projects\pipeline\pipelineApp\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\irachex\documents\visual studio 2010\Projects\pipeline\pipelineApp\obj\x86\Debug\pipelineApp.Properties.Resources.resources
+c:\users\irachex\documents\visual studio 2010\Projects\pipeline\pipelineApp\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\users\irachex\documents\visual studio 2010\Projects\pipeline\pipelineApp\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+c:\users\irachex\documents\visual studio 2010\Projects\pipeline\pipelineApp\obj\x86\Debug\pipelineApp.exe
+c:\users\irachex\documents\visual studio 2010\Projects\pipeline\pipelineApp\obj\x86\Debug\pipelineApp.pdb
+c:\users\irachex\documents\visual studio 2010\Projects\pipeline\pipelineApp\bin\Debug\pipelineApp.exe.config
+c:\users\irachex\documents\visual studio 2010\Projects\pipeline\pipelineApp\bin\Debug\pipelineApp.exe.manifest
+c:\users\irachex\documents\visual studio 2010\Projects\pipeline\pipelineApp\bin\Debug\pipelineApp.application
+c:\users\irachex\documents\visual studio 2010\Projects\pipeline\pipelineApp\obj\x86\Debug\pipelineApp.exe.manifest
+c:\users\irachex\documents\visual studio 2010\Projects\pipeline\pipelineApp\obj\x86\Debug\pipelineApp.application
+c:\users\irachex\documents\visual studio 2010\Projects\pipeline\pipelineApp\obj\x86\Debug\pipelineApp.PipelineApp.resources

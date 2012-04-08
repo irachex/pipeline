@@ -1,0 +1,5 @@
+c:\users\irachex\documents\visual studio 2010\Projects\pipeline\pipelineLibrary\bin\Debug\pipelineLibrary.dll
+c:\users\irachex\documents\visual studio 2010\Projects\pipeline\pipelineLibrary\bin\Debug\pipelineLibrary.pdb
+c:\users\irachex\documents\visual studio 2010\Projects\pipeline\pipelineLibrary\obj\Debug\ResolveAssemblyReference.cache
+c:\users\irachex\documents\visual studio 2010\Projects\pipeline\pipelineLibrary\obj\Debug\pipelineLibrary.dll
+c:\users\irachex\documents\visual studio 2010\Projects\pipeline\pipelineLibrary\obj\Debug\pipelineLibrary.pdb
